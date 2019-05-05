@@ -2,7 +2,7 @@
 Facebook Download Vidio Versi CLI
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/27065646/42167369-2f894e5a-7e0e-11e8-9f6e-ab15da00283d.png">
+<img src="https://raw.githubusercontent.com/sadcode-org/fbdl/master/Fb.png">
 </a>
 </p>
 
